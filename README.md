@@ -402,6 +402,9 @@ jwt.expiration=${JWT_EXPIRATION} <br>
 
 java.runtime.version=11 
 
+# Desenvolvido por:
+ * Brígido Sigá.
+
  
 
 - Send to Heroku: <br>
