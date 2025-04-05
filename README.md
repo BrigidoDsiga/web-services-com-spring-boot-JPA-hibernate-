@@ -401,13 +401,12 @@ jwt.expiration=${JWT_EXPIRATION} <br>
 - Create files: system.properties  
 
 java.runtime.version=11 
-
-# Desenvolvido por:
- * Brígido Sigá.
-
  
-
 - Send to Heroku: <br>
   git add . <br>
   git commit -m "Deploy app to Heroku" <br>
   git push heroku master <br>
+
+
+# Desenvolvido por:
+ * Brígido Sigá.
